@@ -1,11 +1,11 @@
 # my-bussiness-search
-Search the top five ice cream businesses and find details
-How to run.
-
-1. Get a clone from the repository.
-2. Unzip it
-3. goto project directory 
-4. Open in VSCode ide.
-5. From terminal window run commands: (one npm package 'node-fetch' is required as it is running fron node environment)
-$ npm update
-$ node index.js
+ Get top five ice cream shops in Alpharetta.
+1. How to run?
+2. Install node if not.
+3. Get a clone from the repository.
+4. Unzip it.
+5. goto project directory 
+6. Use VSCode IDE and open the project.
+7. From terminal window, run commands:
+8. $ npm update
+9. $ node index.js
